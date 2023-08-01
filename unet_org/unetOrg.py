@@ -1,6 +1,5 @@
 import torch
 import torch.nn as nn
-#https://debuggercafe.com/unet-from-scratch-using-pytorch/#download-code
 
 def double_convol(in_c, out_c):
     conv = nn.Sequential(
