@@ -6,7 +6,7 @@ https://arxiv.org/abs/1505.04597
 Build using powerfull Pytorch which is OOP oriented and uses pythonic code!
 VOC dataset is used to test the model, but any other dataset can be used, but requires a class in the folder dataset!
 
-following libraries are required:
+## following libraries are required:
 torch
 torchvision
 numpy
