@@ -7,11 +7,11 @@ Build using powerfull Pytorch which is OOP oriented and uses pythonic code!
 VOC dataset is used to test the model, but any other dataset can be used, but requires a class in the folder dataset!
 
 ## following libraries are required:
-| torch |
-| torchvision |
-| numpy |
-| pillow |
-| scikit-learn |
-| tqdm |
+1. torch 
+2. torchvision 
+3. numpy 
+4. pillow 
+5. scikit-learn 
+6. tqdm 
 
-###Some prediction from the VOC dataset:
+### Some prediction from the VOC dataset:
