@@ -1,20 +1,20 @@
 # UNet-Scratch-Torch
-UNet build from scratch for semantic segmentation
+UNet built from scratch for semantic segmentation.
 
-The UNet is build exactlt as the original paper sugested 
-https://arxiv.org/abs/1505.04597
-Build using powerfull Pytorch which is OOP oriented and uses pythonic code!
-VOC dataset is used to test the model, but any other dataset can be used, but requires a class in the folder dataset!
+The UNet is built exactly as suggested in the original paper: https://arxiv.org/abs/1505.04597.
 
-## following libraries are required:
-1. torch 
-2. torchvision 
-3. numpy 
-4. pillow 
-5. scikit-learn 
-6. tqdm 
+It is built using the powerful PyTorch library, which is object-oriented and utilizes pythonic code!
 
-### Some prediction from VOC dataset:
+The VOC dataset is used to test the model, but any other dataset can be used with the requirement of a class in the folder dataset.
+
+## The following libraries are required:
+1. torch
+2. torchvision
+3. numpy
+4. pillow
+5. scikit-learn
+6. tqdm
+## Some predictions from the VOC dataset:
 
 <div>
 <img src="https://github.com/faxirabd/UNet-Scratch-Torch/assets/115953037/164c0a97-2717-4589-9a6c-cb0411763f53"   width="20%">
