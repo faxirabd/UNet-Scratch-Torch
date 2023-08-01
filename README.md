@@ -14,7 +14,7 @@ VOC dataset is used to test the model, but any other dataset can be used, but re
 5. scikit-learn 
 6. tqdm 
 
-### Some prediction from the VOC dataset:
+### Some prediction from VOC dataset:
 
 <div>
 <img src="https://github.com/faxirabd/UNet-Scratch-Torch/assets/115953037/164c0a97-2717-4589-9a6c-cb0411763f53"   width="20%">
