@@ -15,3 +15,8 @@ VOC dataset is used to test the model, but any other dataset can be used, but re
 6. tqdm 
 
 ### Some prediction from the VOC dataset:
+![image](https://github.com/faxirabd/UNet-Scratch-Torch/assets/115953037/453aac47-9aa1-4fc2-856e-9230491fd616) ![image](https://github.com/faxirabd/UNet-Scratch-Torch/assets/115953037/7c58ee98-dac0-4ffa-ae3b-728e5fd28889)
+
+
+
+
